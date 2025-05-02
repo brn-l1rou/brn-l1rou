@@ -1,7 +1,7 @@
 ### Nice to meet you, I'm Bruno Santos!
 
 -  I'm currently working with support and infrastructure at Santos Brasil.
--  Beginning my studies with: <strong> JAVA | C | C#</strong> 
+-  Beginning my studies with: <strong> JAVA | C | C# | HTML</strong> 
 -  contact e-mail: l1roulco61@hotmail.com
 
 ##
